@@ -5,6 +5,6 @@ Here you’ll find short, simple, and fun guides about web development.
 
 ## Tutorials
 1. ✅ **Create a Landing Page (HTML only)**  
-   [index.html](index.html) | [PDF Guide] (Landing-page.pdf)
+   [index.html](index.html) | [PDF Guide](Landingpage.pdf)
 
 More tutorials coming soon... stay tuned! 🎉
